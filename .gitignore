@@ -22,3 +22,6 @@
 
 #Ignore IDE information
 .idea/
+
+#Ignore spring directory to prevent conflicts with guard
+/spring/*.pid
